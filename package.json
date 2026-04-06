@@ -1,0 +1,10 @@
+{
+  "name": "distributed-cache",
+  "module": "index.ts",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.3.11",
+    "typescript": "^6.0.2"
+  }
+}
